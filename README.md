@@ -5,12 +5,13 @@
 Die Ziel des Projekts ist, eine Einparkhilfe mittels Ultraschallsensor zu bauen, welche die Nähe zu einem Objekt durch zwei verschiedene LEDs (niedrige Frequenz = größere Distanz, hohe Frequenz = kleinere distanz, durchgehendes Leuchten = unmittelbare Nähe) und einem Webserver ausgibt.
 
 ## Schaltplan
+![image](https://github.com/imilev-tgm/Einparkhilfe/assets/119353531/3e32f5ec-513a-46ce-960b-b3e3e3db82a9)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6371d7f1-7027-4067-9d1e-54ca091eb457/Untitled.png)
 
 ## Aufbau
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f25b000-535d-47a0-8db7-97d610e5a453/Untitled.png)
+![image](https://github.com/imilev-tgm/Einparkhilfe/assets/119353531/a952919b-d0b2-4113-ad10-33d47df5656f)
+
 
 Code:
 
